@@ -1,0 +1,22 @@
+.PerosnalData{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.PerosnalData2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+    margin: 2rem 0;
+    &__image {
+        height: 18rem;
+      }
+}
+
+.Perosnaldesc{
+    width: 80%;
+    margin: 2rem 0;
+}

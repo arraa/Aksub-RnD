@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "title": "Indonesia and Australia time difference",
+      "detail": "What actually the time difference between Indonesia and Australian in GMT",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Richest person in the world",
+      "detail": "Who is currently the richest person in the world?"
+    },
+    {
+      "id": 4,
+      "title": "Google CEO",
+      "detail": "Who is the CEO of Google"
+    },
+    {
+      "id": 5,
+      "title": "Next Full Moon",
+      "detail": "When the next full moon be?"
+    },
+    {
+      "id": 6,
+      "title": "Number of kidney to live",
+      "detail": "Can human still alife if there is only one kidney?"
+    },
+    {
+      "id": 7,
+      "title": "Number of guitar string",
+      "detail": "How many string actually a guitar has?"
+    },
+    {
+      "id": 8,
+      "title": "Gluten in rice",
+      "detail": "Does rice consist of gluten?"
+    },
+    {
+      "id": 9,
+      "title": "Indonesia's startup unicorn",
+      "detail": "How many startup unicorn in Indonesia?"
+    },
+    {
+      "id": 10,
+      "title": "Pluto planet",
+      "detail": "Does pluto still called as planet?"
+    },
+    {
+      "id": 11,
+      "title": "Martabak vs Apam Balek",
+      "detail": "What is the difference between martabak and apam balek?"
+    },
+    {
+      "id": 12,
+      "title": "Uninstall Internet Explorer",
+      "detail": "Can i just uninstall internet explorer since I don't neet it"
+    },
+    {
+      "title": "halo!!!!",
+      "detail": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum tenetur sequi similique id reprehenderit fugit rerum amet temporibus magnam consectetur! Repudiandae dolor quasi porro voluptates quia soluta optio earum laboriosam.",
+      "id": 13
+    }
+  ],
+  "Portofolio": [
+    {
+      "name": "Calculator",
+      "detail": "In the first project. I make a simple calculator that can help us in our daily life. The calculator includes addition, subtraction, multiplication and division.",
+      "link": "https://github.com/arraa/calculator",
+      "id": 1
+    },
+    {
+      "name": "Mockup Ecommerce",
+      "detail": " This is a mockup for a platform that sells albums and merchandise about k-pop. There are sections such as home, details, login and sign up.",
+      "link": "https://www.figma.com/file/ZVzvOTpPj0BlxBU2YMsRSu/mock-up-website?node-id=59%3A156",
+      "id": 2
+    },
+    {
+      "name": "Company Profile",
+      "detail": "this project was made for a mini project assignment from a Technology project Member. This is a company profile for skypics, this profile is a kind of portfolio that contains about us, our work and also contact-us.",
+      "link": "https://github.com/arraa/MiniProject-TPM",
+      "id": 3
+    },
+    {
+      "name": "Hackathon 5.0",
+      "detail": "This project is the final project of the Technology project Member which is done together with the team. This is a website for the Hackathon 5.0 event and there are several pages, such as the homepage, registration, login, dashboard, admin panel.",
+      "link": "https://github.com/arraa/FinalProject-TPM",
+      "id": 4
+    },
+    {
+      "name": "final project HCI",
+      "detail": "In this project i made for the HCI project. This is a website for VOrgreens",
+      "link": "https://github.com/arraa/HCI-project",
+      "id": 5
+    },
+    {
+      "name": "Mid Project LnT (portofolio)",
+      "detail": "In this project I made for the mid project LnT. This is a website for portofolio website ",
+      "link": "https://github.com/arraa/portofolio",
+      "id": 6
+    },
+    {
+      "name": "Final Project LnT",
+      "detail": "In this project I made for the final project LnT. This is a website for event PuddingFest",
+      "link": "https://github.com/arraa/LnTFinalProject_FE-E_Mutiara-Rahmah",
+      "id": 7
+    },
+    {
+      "name": "Technoscape 2022",
+      "detail": "TechnoScape is the biggest Technology event held by BNCC. in this project I as part of the website development team for TechnoScape 2022.",
+      "link": "http://technoscape.id/",
+      "id": 8
+    }
+  ]
+}

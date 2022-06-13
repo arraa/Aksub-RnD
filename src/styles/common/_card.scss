@@ -1,0 +1,24 @@
+.card {
+  box-shadow: $shadow;
+  padding: 2rem 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  &__title {
+    font-size: 1.5rem;
+    margin: 0 0 1rem 0;
+  }
+  &__detail {
+    font-size: 1rem;
+    margin: 0;
+  }
+  &__detailPorto {
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+  &__action {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+  }
+}
